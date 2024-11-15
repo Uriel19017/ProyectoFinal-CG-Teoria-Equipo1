@@ -1,0 +1,2 @@
+D:/uriel/Downloads/Proyectofin/Proyectofin/Proyectofin/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/uriel/Downloads/Proyectofin/Proyectofin/Proyectofin/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
